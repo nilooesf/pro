@@ -1,0 +1,6 @@
+C:\Users\Amin\Desktop\Sudoko\bin\Release\Sudoko.exe
+C:\Users\Amin\Desktop\Sudoko\obj\Release\Sudoko.csprojResolveAssemblyReference.cache
+C:\Users\Amin\Desktop\Sudoko\obj\Release\Sudoku.DataGridSpinnerColumn.resources
+C:\Users\Amin\Desktop\Sudoko\obj\Release\Sudoku.SudokuMainForm.resources
+C:\Users\Amin\Desktop\Sudoko\obj\Release\Sudoko.csproj.GenerateResource.Cache
+C:\Users\Amin\Desktop\Sudoko\obj\Release\Sudoko.exe
